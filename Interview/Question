@@ -1,0 +1,118 @@
+1. Swap Number using 3rd Variable
+2. Swap Number without using 3rd variable
+3. First Minimum from array
+4. First and Secound minimum from array
+5. Secound Minimum 
+6. Secound Maximum
+7. Print Acessending and descending element.
+8. First minimum and secound minimum without bubble sort.
+9. First maximum and secound maximum without bubble sort.
+10.Addition of 2 Array.
+11.Segarigate 0 and 1.
+12.Print sum of first 3 Minimum number from array
+13.Print sum of first 3 maximum number from array.
+-------------------------------------------------------------------------------------------------------------------------------------------
+String Programming
+------------------------
+1. Reverse String.
+2. Reverse String without using length() and length varible;
+3. Reverse String 
+4. Pallindrome String.
+5. accurance of character of given string
+6. Print the accurance of Unique character of given string.
+7. Print the accurance of dupplicate character of given string.
+8. Print the character which is unique in the given string
+9. Print character which is dupplicates in the given string
+10.Possition of Unique Character which is unique character.
+11.asscending Order of alphabate
+12.accurance of  word.[Khatam TATA bye bye]
+13.Print only unique character in insertion order is preserve
+14.combination of given string[Dictionary Order]
+15.combination of given integer[Accending Order]
+16.reverse String of integer[eg:"154785235"]
+17.
+-------------------------------------------------------------------------------------------------------
+Patterns
+--------
+1.
+
+*****
+****
+***
+**
+*
+
+2.
+
+*
+**
+***
+****
+*****
+
+3.
+
+*****
+ ****
+  ***
+   **
+    *
+4.
+     *
+    **
+   ***
+  ****
+ *****  
+
+ 5.
+ 
+ *
+ **
+ ***
+ ***** 
+ ****
+ ***
+ **
+ *
+ 
+ 6
+ 
+    *
+   **
+  ***
+ ****
+  ***
+   **
+    *
+    
+ 7.
+ 
+******
+ ****
+  **
+  *
+ 8.
+   
+    *
+   ***
+  *****
+ *******
+ 
+ 9.
+ 
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+ 
+ 10.
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+  
+ 
